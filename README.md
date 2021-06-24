@@ -1,8 +1,17 @@
-# Project
+# [Likelion7th]my_todo App
 
-### 규칙
+Likelion7th 수업에서 ReactNative로 클론코딩한 앱 입니다.
 
-1. 완성된 프로젝트만 코드를 저장해 놓는다.
-2. 프로젝트의 상세한 내용을 적으며 필요한 함수들은 knowledge에서 가져온다.
-3. knowledge에 없는 함수는 프로젝트 하면서 적어놓는다.
+---
 
+### 결과물
+
+<img src="./result.gif" style="width:30%; float:left;"/>
+
+---
+
+### 요약
+
+1. react-native에서 제공하는 **TextInput**, **TouchableOpacity** 등을 이용해 UI를 구성합니다.
+2. react-native에서 제공하는 **FlatList**를 사용하여 state, props를 주고 받으며 앱이 활성화 되어있을때의 CRUD를 구현합니다.
+3. expo에서 제공하는 async-storage모듈에서 **AsyncStorage**를 사용해서 핸트폰 로컬 저장소에 저장합니다.
